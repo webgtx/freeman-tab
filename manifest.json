@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3, 
+  "name": "Freeman - Custom Newtab",
+  "version": "1.0",
+  "description": "Remind yourself who you are every time you want to use your web browser",
+  "author": "Alex Zolotarov",
+  "chrome_url_overrides" : {
+    "newtab": "index.html"
+  }
+}
